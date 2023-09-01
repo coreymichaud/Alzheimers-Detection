@@ -8,4 +8,4 @@ This is a notebook where I analyze the DAWRIN dataset to detect alzheimer's in a
 
   Using handwriting data, I will use a random forest classifier to predict whether an individual has Alzheimer's or not. The goal is for future handwriting data to be inserted and accurately predict the correct diagnosis, saving the individual time to get treatment to slow down the process.
 
-### Data is taken from https://www.kaggle.com/datasets/taeefnajib/handwriting-data-to-detect-alzheimers-disease.
+##### Data is taken from https://www.kaggle.com/datasets/taeefnajib/handwriting-data-to-detect-alzheimers-disease.
